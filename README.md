@@ -18,16 +18,18 @@
 
 ---
 
-<!-- 2. Profile Visitor Counter Badge -->
+
+<!-- Visitor Counter Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AlMizan-09&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
----
-
-<!-- 3. Neon Live Activity Graph -->
+<!-- Snake Game Animation -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/AlMizan-09/AlMizan-09/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-
+<!-- Neon Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlMizan-09&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</p>

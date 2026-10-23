@@ -16,20 +16,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+pursuing+B.Tech+in+Data+Science;Full-Stack+%26+Python+Developer;Building+Real-Time+Web+Apps+%26+Tools;Exploring+Databases%2C+Algorithms+%26+Backend!" alt="Typing SVG" />
 </p>
 
----
-
 
 <!-- Visitor Counter Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlMizan-09&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+---
+
 <!-- Snake Game Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlMizan-09/AlMizan-09/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- Neon Activity Graph -->
+---
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlMizan-09&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlMizan-09&theme=tokyonight" alt="Activity Graph" />
 </p>
+

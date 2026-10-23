@@ -30,9 +30,7 @@
 </p>
 
 ---
-
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlMizan-09&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlMizan-09&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-

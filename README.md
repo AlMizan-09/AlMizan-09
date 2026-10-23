@@ -30,7 +30,7 @@
 </p>
 
 ---
-<!-- GitHub Stats Card -->
+<!-- Activity Line Chart -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlMizan-09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlMizan-09&theme=tokyonight" alt="Activity Graph" />
 </p>

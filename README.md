@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlMizan-09&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AlMizan-09&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- 1. Custom Auto Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+pursuing+B.Tech+in+Data+Science;Full-Stack+%26+Python+Developer;Building+Real-Time+Web+Apps+%26+Tools;Exploring+Databases%2C+Algorithms+%26+Backend!" alt="Typing SVG" />
